@@ -27,10 +27,10 @@ print(type(x))
 print(type(y))
 
 
-x = "john"
+x = "john1"
 print(x)
 #double quotes are the same as single quotes:
-x = 'john'
+x = 'john2'
 print(x)
 
 a = 4

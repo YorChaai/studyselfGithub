@@ -33,6 +33,8 @@ for x in "banana":
 for x in ("orange"):
     print(x)
 
+for x in ("banana", "papaya"):
+    print(x)
 
 a = "Hello, World"
 print(len(a))
